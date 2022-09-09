@@ -12,6 +12,9 @@ The columns_list, encoded_list, null_dict pkl files and std_scaler.bin  are gene
 
 The application_model.sav is the saved model which performed best on the train data.
 
+![image](https://user-images.githubusercontent.com/15002537/189453000-43781c9b-5f21-4764-8e5a-5aabd61cd16a.png)
+
+
 # Instructions to Launch the app locally
 1) Clone the repository
 2) Create a new virtual environment and activate the created virtual environment
